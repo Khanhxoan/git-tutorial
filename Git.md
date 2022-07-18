@@ -30,7 +30,7 @@
     + lệnh: git push origin master
     + tên remote mặc định: "origin"
 
-- git clone: (dùng lần đầu) để tải toàn bộ source code về máy
+- git clone: (dùng lần đầu) để tải toàn bộ source code về máy, lưu cả lịch sử của các lần commit trước về máy
 - git pull origin master: kéo dữ liệu những phần code mới
 - git config credential.helper store: lưu acount git vào máy tính
 
